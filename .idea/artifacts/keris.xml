@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="keris">
+    <output-path>$PROJECT_DIR$/out/artifacts/keris</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="CurationGUI" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="keris.jar">
+        <element id="module-output" name="keris_survival" />
+        <element id="extracted-dir" path="$USER_HOME$/Documents/opencv/opencv-410.jar" path-in-jar="/" />
+        <element id="file-copy" path="$USER_HOME$/Documents/opencv/libopencv_java410.dylib" />
+      </element>
+      <element id="file-copy" path="$USER_HOME$/Documents/opencv/opencv-410.jar" />
+      <element id="file-copy" path="$USER_HOME$/Documents/opencv/libopencv_java410.dylib" />
+      <element id="file-copy" path="$USER_HOME$/Documents/opencv/opencv_java411.dll" />
+    </root>
+  </artifact>
+</component>
